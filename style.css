@@ -6,3 +6,12 @@ h2 {
     font-family: 'Arial';
     color: rgb(37, 37, 37);
 }
+
+.container {
+    width: 500px;
+    margin: 10px auto 0 auto;
+    border: 1px dotted red;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+}
